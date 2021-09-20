@@ -52,4 +52,4 @@ function selfRating() {
     console.log(selfRating);
 }
 
-selfRating();
+// selfRating();
